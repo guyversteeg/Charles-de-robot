@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1378385997 source:c:\users\guy\documents\school\imperative programming 1\charles the robot\charles de robot\robot.cpp
+	<fstream>
+	"Robot.h"
+
+1378385997 c:\users\guy\documents\school\imperative programming 1\charles the robot\charles de robot\robot.h
+	"gui_kernel.h"
+
+1378385997 c:\users\guy\documents\school\imperative programming 1\charles the robot\charles de robot\gui_kernel.h
+	<windows.h>
+
+1378485789 source:c:\users\guy\documents\school\imperative programming 1\charles the robot\charles de robot\gui_kernel.cpp
+	"gui_kernel.h"
+	<algorithm>
+	<cstdlib>
+
+1378462720 source:c:\users\guy\documents\school\imperative programming 1\charles the robot\charles de robot\charles.cpp
+	"Robot.h"
+
+1378385997 source:c:\users\guy\documents\school\imperative programming 1\charles the robot\charles the robot\robot.cpp
+	<fstream>
+	"Robot.h"
+
+1378385997 c:\users\guy\documents\school\imperative programming 1\charles the robot\charles the robot\robot.h
+	"gui_kernel.h"
+
+1378385997 c:\users\guy\documents\school\imperative programming 1\charles the robot\charles the robot\gui_kernel.h
+	<windows.h>
+
+1378485789 source:c:\users\guy\documents\school\imperative programming 1\charles the robot\charles the robot\gui_kernel.cpp
+	"gui_kernel.h"
+	<algorithm>
+	<cstdlib>
+
+1378462720 source:c:\users\guy\documents\school\imperative programming 1\charles the robot\charles the robot\charles.cpp
+	"Robot.h"
+
